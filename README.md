@@ -1,7 +1,7 @@
-👋 Hi, I'm @mpoerwito  
-👀 I'm interested in Information and Cyber security  
+👋 Hi, I'm a software developer  
+👀 I'm interested in information and cyber security  
 🌱 I'm currently learning Rust language  
-🔭 I'm currently working on getting a CEH certification  
+🔭 I'm currently working on becoming a CEH  
 
 ☕ cheers
 <!---
